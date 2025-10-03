@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "incident_type": "Тестовый сбой",
+    "date_time": "2024-01-15 12:00:00",
+    "location": {
+      "address": "Тестовое место",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "description": ""
+    },
+    "description": "Это тестовое происшествие",
+    "priority": "Низкий",
+    "status": "closed",
+    "created_by": "test_user",
+    "created_date": "2025-10-03T22:12:01.305871",
+    "extensions": [],
+    "cause_analysis": null,
+    "documentation": null,
+    "archived": true,
+    "archived_date": "2025-10-03T22:12:01.306869"
+  }
+]

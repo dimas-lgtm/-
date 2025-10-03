@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "incident_type": "попа",
+    "date_time": "12.12.2020",
+    "location": {
+      "address": "попа",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "description": ""
+    },
+    "description": "жопа",
+    "priority": "Низкий",
+    "status": "closed",
+    "created_by": "admin",
+    "created_date": "2025-09-28T20:04:24.121680",
+    "extensions": [],
+    "cause_analysis": null,
+    "documentation": "опа",
+    "archived": true,
+    "archived_date": "2025-09-28T20:06:11.831432"
+  },
+  {
+    "id": 2,
+    "incident_type": "дтп",
+    "date_time": "12.01.2025",
+    "location": {
+      "address": "Курск",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "description": ""
+    },
+    "description": "ярик мудила",
+    "priority": "Высокий",
+    "status": "closed",
+    "created_by": "admin",
+    "created_date": "2025-09-28T20:10:41.220088",
+    "extensions": [],
+    "cause_analysis": null,
+    "documentation": "документ\n",
+    "archived": true,
+    "archived_date": "2025-09-28T20:12:06.435284"
+  },
+  {
+    "id": 3,
+    "incident_type": "Тестовый сбой",
+    "date_time": "2024-01-15 12:00:00",
+    "location": {
+      "address": "Тестовое место",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "description": ""
+    },
+    "description": "Это тестовое происшествие",
+    "priority": "Низкий",
+    "status": "closed",
+    "created_by": "test_user",
+    "created_date": "2025-09-28T20:28:49.291904",
+    "extensions": [],
+    "cause_analysis": null,
+    "documentation": null,
+    "archived": true,
+    "archived_date": "2025-09-28T20:28:49.297203"
+  },
+  {
+    "id": 4,
+    "incident_type": "Тестовый сбой",
+    "date_time": "2024-01-15 12:00:00",
+    "location": {
+      "address": "Тестовое место",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "description": ""
+    },
+    "description": "Это тестовое происшествие",
+    "priority": "Низкий",
+    "status": "closed",
+    "created_by": "test_user",
+    "created_date": "2025-09-28T20:30:34.058074",
+    "extensions": [],
+    "cause_analysis": null,
+    "documentation": null,
+    "archived": true,
+    "archived_date": "2025-09-28T20:30:34.064194"
+  }
+]
